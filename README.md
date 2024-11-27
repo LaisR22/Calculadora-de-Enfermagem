@@ -26,7 +26,6 @@ A Calculadora de Enfermagem é uma aplicação que reúne diversas funcionalidad
 - **JavaScript**: Lógica de cálculo e interatividade.  
 
 ## 🚀 Como Usar  
-1. Faça o download ou clone este repositório:  
-   ```bash
-  https://github.com/LaisR22/Calculadora-de-Enfermagem.git
+1. Faça o downlod ou clone este repositório:  
+   ```bashhttps://github.com/LaisR22/Calculadora-de-Enfermagem.git
 ## 🧩 Desenvolvido Por Lais Ribeiro 
